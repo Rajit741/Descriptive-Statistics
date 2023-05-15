@@ -1,6 +1,7 @@
 # Descripive-Statistics
 
 Descriptive analytics plays a crucial role in data science by providing fundamental insights into the characteristics and patterns of data. Here are some key reasons why descriptive analytics is important:
+
 Data Understanding: Descriptive analytics helps data scientists gain a deep understanding of the data they are working with. By examining summary statistics, distributions, and visualizations, data scientists can explore the basic properties of the data and identify any notable patterns or anomalies.
 
 Data Cleaning and Preprocessing: Before conducting advanced analyses or building predictive models, data scientists need to clean and preprocess the data. Descriptive analytics aids in detecting missing values, outliers, and inconsistencies, allowing data scientists to make informed decisions on how to handle these issues effectively.
