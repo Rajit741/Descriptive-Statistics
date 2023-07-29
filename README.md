@@ -1,4 +1,4 @@
-# Descripive-Statistics
+# Descriptive-Statistics
 
 Descriptive analytics plays a crucial role in data science by providing fundamental insights into the characteristics and patterns of data. Here are some key reasons why descriptive analytics is important:
 
